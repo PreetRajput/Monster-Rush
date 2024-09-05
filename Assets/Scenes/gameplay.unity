@@ -5949,9 +5949,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   allEnemies:
-  - {fileID: 8537587096172834863, guid: e37c9ee9039e0a247aca95432cfb0284, type: 3}
+  - {fileID: 5880116978840168409, guid: c66935af8189f76429bd4fd3c337104b, type: 3}
   - {fileID: 4866309393207106991, guid: 0495dcfb61639c043a998c33a26e7aae, type: 3}
-  - {fileID: 5880116978840168409, guid: 355f11c582951104b85940bb66011925, type: 3}
+  - {fileID: 8537587096172834863, guid: a2eb03cd37f556343968ab018a46f59d, type: 3}
   leftpos: {fileID: 1380007805}
   rightpos: {fileID: 1099782268}
 --- !u!4 &1798443198
